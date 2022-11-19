@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">G3_Proyecto_RedHat</string>
+    <string name="text_titulo">Cargando...</string>
+    <string name="text_app">RED HAT</string>
+    <string name="text_intranet">Intranet</string>
+    <string name="txt_email">ejemplo@dominio.com</string>
+    <string name="txt_pass">Contraseña</string>
+    <string name="chk_recordar">Recordar</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_salir">Salir</string>
+    <string name="todo">TODO</string>
+    <string name="txt_registrate"> ¿No tienes cuenta? Registrate aquí</string>
+</resources>
